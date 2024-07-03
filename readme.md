@@ -38,7 +38,7 @@ python app.py
 - `dengue_lstm_model.h5`: Modelo LSTM entrenado para predecir casos de dengue.
 - `requirements.txt`: Lista de todas las librerías requeridas para ejecutar el proyecto.
 - `static/`: Directorio que contiene archivos estáticos utilizados por la aplicación.
-- `index.html`: Página web principal de la aplicación.
-- `logo.png`: Archivo de imagen utilizado en la interfaz.
+  - `index.html`: Página web principal de la aplicación.
+  - `logo.png`: Archivo de imagen utilizado en la interfaz.
 - `notebooks/`: Directorio que contiene el EDA y desarrollo del modelo.
 
