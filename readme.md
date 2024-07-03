@@ -1,7 +1,7 @@
 # Predicción del Dengue
 
 
-Este proyecto fue desarrollado como parte del programa [**‘Mil Mujeres IA’**](https://www.intel.la/content/www/xl/es/newsroom/news/intel-capacitara-1000-mujeres-en-ia.html#gs.bmwa0t), el cual tiene como objetivo empoderar a 1000 mujeres de América Latina mediante cursos especializados en inteligencia artificial, democratizando así el acceso a esta tecnología y su aplicación práctica en el ámbito laboral productivo. Para más información del programa consulte ['aquí'](https://milmujeresia.com/)
+Este proyecto fue desarrollado como parte del programa [**‘Mil Mujeres IA’**](https://www.intel.la/content/www/xl/es/newsroom/news/intel-capacitara-1000-mujeres-en-ia.html#gs.bmwa0t), el cual tiene como objetivo empoderar a 1000 mujeres de América Latina mediante cursos especializados en inteligencia artificial, democratizando así el acceso a esta tecnología y su aplicación práctica en el ámbito laboral productivo. Para más información del programa consulte [aquí](https://milmujeresia.com/)
 
 El equipo 9 desarrolló un modelo LSTM para predecir los casos de dengue en Medellín, utilizando los datos de los últimos 12 meses.
 
